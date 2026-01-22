@@ -1,4 +1,6 @@
+<img width="1376" height="768" alt="profile-banner" src="https://github.com/user-attachments/assets/4e3e026e-9e9c-49c5-bc04-8943f6221506" />
 👋 Hi, I'm Bas de Wilde
+
 First‑year Smart ICT Engineer
 Welcome to my GitHub profile. I’m currently studying Smart ICT Engineering and exploring the world of software, hardware, and embedded systems. I enjoy building practical solutions, experimenting with electronics, and learning new technologies through hands‑on projects.
 
