@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Bas de Wilde
+First‑year Smart ICT Engineer
+Welcome to my GitHub profile. I’m currently studying Smart ICT Engineering and exploring the world of software, hardware, and embedded systems. I enjoy building practical solutions, experimenting with electronics, and learning new technologies through hands‑on projects.
 
-<!--
-**basdewilde/basdewilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Interests:
+🐍 Programming with Python
 
-Here are some ideas to get you started:
+🌐 Web basics: HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Working with Arduino microcontrollers
+
+🥧 Building projects with Raspberry Pi
+
+🔌 Exploring sensors, automation, and small hardware setups
+
+Most of my repositories contain experiments, school assignments, prototypes, and personal projects that help me grow as an engineer.
+
+👋 Hoi, ik ben Bas de Wilde
+Eerstejaars Smart ICT Engineer
+Welkom op mijn GitHub-profiel. Ik zit in mijn eerste jaar Smart ICT Engineering en ben volop bezig met software, hardware en embedded systemen. Ik vind het leuk om praktische oplossingen te bouwen, met elektronica te experimenteren en nieuwe technologieën te ontdekken door zelf projecten te maken.
+
+🔧 Vaardigheden & Interesses:
+🐍 Programmeren met Python
+
+🌐 Web‑basis: HTML & CSS
+
+🤖 Werken met Arduino microcontrollers
+
+🥧 Projecten bouwen met Raspberry Pi
+
+🔌 Sensoren, automatisering en kleine hardware‑opstellingen
+
+In mijn repositories vind je schoolopdrachten, experimenten, prototypes en persoonlijke projecten die mij helpen groeien als engineer.
